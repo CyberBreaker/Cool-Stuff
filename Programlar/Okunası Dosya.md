@@ -11,3 +11,4 @@ site.com/link-birseyler3.html
 site.com/link-birseyler4.html
 
 gibi istediğiniz şekilde kullanabilirsiniz. 
+
